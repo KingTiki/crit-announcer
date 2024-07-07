@@ -1,0 +1,30 @@
+{
+  "id": "crit-announcer",
+  "title": "crit-announcer",
+  "description": "Module that announces critical successes and failures via sound effects",
+  "version": "1.0.0",
+  "esmodules": [
+    "scripts/crit-announcer.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    },
+    {
+      "lang": "de",
+      "name": "Deutsch",
+      "path": "languages/de.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "languages/es.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  }
+}

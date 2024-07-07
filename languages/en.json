@@ -1,0 +1,14 @@
+{
+    "crit.ShowAttackRolls": "Announce Attack Rolls?",
+    "crit.ShowAttackRollsHint": "When selected the module announces critical successes and failes on attack rolls",
+    "crit.ShowDeathSaves": "Announce Death Saves?",
+    "crit.ShowDeathSavesHint": "When selected the module announces critical successes and failes on death saves",
+    "crit.chooseCriticalAttackSound": "Critical success attack roll",
+    "crit.chooseCriticalAttackSoundHint": "Plays the selected sound the critical success of an attack roll",
+    "crit.chooseFumbleAttackSound": "Critical failure attack roll",
+    "crit.chooseFumbleAttackSoundHint": "Plays the selected sound the critical failure of an attack roll",
+    "crit.chooseCriticalDeathSound": "Critical success death save",
+    "crit.chooseCriticalDeathSoundHint": "Plays the selected sound the critical success of a death save",
+    "crit.chooseFumbleDeathSound": "Critical failure death save",
+    "crit.chooseFumbleDeathSoundHint": "Plays the selected sound the critical failure of a death save"
+}

@@ -1,0 +1,14 @@
+{
+    "crit.ShowAttackRolls": "¿Anunciar tiradas de ataque?",
+    "crit.ShowAttackRollsHint": "Cuando está seleccionado, el módulo anuncia éxitos y fallos críticos en las tiradas de ataque",
+    "crit.ShowDeathSaves": "¿Anunciar tiradas de salvación contra la muerte?",
+    "crit.ShowDeathSavesHint": "Cuando está seleccionado, el módulo anuncia éxitos y fallos críticos en las tiradas de salvación contra la muerte",
+    "crit.chooseCriticalAttackSound": "Éxito crítico tirada de ataque",
+    "crit.chooseCriticalAttackSoundHint": "Reproduce el sonido seleccionado en el éxito crítico de una tirada de ataque",
+    "crit.chooseFumbleAttackSound": "Fallo crítico tirada de ataque",
+    "crit.chooseFumbleAttackSoundHint": "Reproduce el sonido seleccionado en el fallo crítico de una tirada de ataque",
+    "crit.chooseCriticalDeathSound": "Éxito crítico tirada de salvación contra la muerte",
+    "crit.chooseCriticalDeathSoundHint": "Reproduce el sonido seleccionado en el éxito crítico de una tirada de salvación contra la muerte",
+    "crit.chooseFumbleDeathSound": "Fallo crítico tirada de salvación contra la muerte",
+    "crit.chooseFumbleDeathSoundHint": "Reproduce el sonido seleccionado en el fallo crítico de una tirada de salvación contra la muerte"
+}

@@ -1,0 +1,14 @@
+{
+    "crit.ShowAttackRolls": "Angriffswürfe ankündigen?",
+    "crit.ShowAttackRollsHint": "Wenn ausgewählt, kündigt das Modul kritische Erfolge und Fehlschläge bei Angriffswürfen an",
+    "crit.ShowDeathSaves": "Todesrettungswürfe ankündigen?",
+    "crit.ShowDeathSavesHint": "Wenn ausgewählt, kündigt das Modul kritische Erfolge und Fehlschläge bei Todesrettungswürfen an",
+    "crit.chooseCriticalAttackSound": "Kritischer Erfolg Angriffswurf",
+    "crit.chooseCriticalAttackSoundHint": "Spielt den ausgewählten Sound beim kritischen Erfolg eines Angriffswurfs",
+    "crit.chooseFumbleAttackSound": "Kritischer Fehlschlag Angriffswurf",
+    "crit.chooseFumbleAttackSoundHint": "Spielt den ausgewählten Sound beim kritischen Fehlschlag eines Angriffswurfs",
+    "crit.chooseCriticalDeathSound": "Kritischer Erfolg Todesrettungswurf",
+    "crit.chooseCriticalDeathSoundHint": "Spielt den ausgewählten Sound beim kritischen Erfolg eines Todesrettungswurfs",
+    "crit.chooseFumbleDeathSound": "Kritischer Fehlschlag Todesrettungswurf",
+    "crit.chooseFumbleDeathSoundHint": "Spielt den ausgewählten Sound beim kritischen Fehlschlag eines Todesrettungswurfs"
+}
